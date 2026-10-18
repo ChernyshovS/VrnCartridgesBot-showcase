@@ -39,15 +39,9 @@
 
 ## Скриншоты
 
-<!--
-  Сюда вставьте скриншоты из бота. Положите картинки в папку images
-  и замените имена файлов ниже на свои. Строки с несуществующими
-  файлами GitHub покажет как битые картинки, поэтому лишние удалите.
--->
-
-| Поиск кнопками | Ответ с ценами | Слежение |
-|---|---|---|
-| <img src="images/screen-menu.png" width="250"> | <img src="images/screen-answer.png" width="250"> | <img src="images/screen-watch.png" width="250"> |
+| Telegram: начало и выбор калибра | ВКонтакте: калибры и слежения |
+|---|---|
+| <img src="images/screen-telegram.png" width="300"> | <img src="images/screen-vk.png" width="300"> |
 
 ## Как это устроено
 
